@@ -1,0 +1,18 @@
+
+
+
+.contenedor {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    position: relative; /* Contenedor relativo */
+}
+
+.absoluto {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    position: absolute; /* Posicionamiento absoluto */
+    top: 20px; /* Mueve el elemento 20px desde la parte superior del contenedor */
+    left: 30px; /* Mueve el elemento 30px desde la parte izquierda del contenedor */
+}
